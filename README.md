@@ -1,1 +1,1 @@
-# Prob-Stats
+# Probability and Statistics
